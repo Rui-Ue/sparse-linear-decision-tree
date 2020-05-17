@@ -1,0 +1,24 @@
+
+# input and output
+data/
+
+# user dir
+my_dir/
+
+# VSCode
+.vscode/
+
+# pyenv
+.python-version
+
+# Finder
+.DS_Store
+
+# cache of python
+__pycache__/
+
+# Notebook Checkpoints
+.ipynb_checkpoints/
+
+# R
+.Rhistory
